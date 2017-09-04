@@ -2,7 +2,7 @@
 IMDB reviews' statistical and sentiment analysis
 
 # Project
-I have written about this project [here]:
+I have written about this project [here].
 
 # License
 Released under version 2.0 of the [Apache License].
