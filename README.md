@@ -1,5 +1,5 @@
 # IMDB sentiment analysis
-IMDB reviews' statistical and sentiment analysis. Methods offered: csv parsing, word count, most common word count, frequency plots, unwanted words clensing,statistical analysis of word samples.
+IMDB reviews' statistical and sentiment analysis. Methods offered: csv parsing, word count, most common word count, frequency plots, unwanted words clensing, statistical analysis of word samples, naïve Bayes.
 
 # Project
 I have written about this project [here].
