@@ -8,4 +8,4 @@ I have discussed about this project [here].
 Released under version 2.0 of the [Apache License].
 
 [Apache license]: http://www.apache.org/licenses/LICENSE-2.0
-[here]: https://medium.com/@ugo.bertello
+[here]: https://medium.com/@ugo.bertello/sentiment-analysis-of-imdb-reviews-7c95bbb5b306
